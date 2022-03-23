@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @sharadj34
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning c++ and java
-- 💞️ I’m looking to collaborate on app and web development
-- 📫 How to reach me ...
+- # Hi, I'm Sharad <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<table>
+<tr>
+  <td valign="center">
+    🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**. <br>
+    🌱 I am currently learning **C++** and also interested in **Web Development**.<br>
+    🎯 My Goal is to Contribute to as many **open source project** as possible. <br>
+    ✨ I love to create different types of **contents** including writing blogs. <br>
+  <td >
 
 <!---
 sharadj34/sharadj34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
