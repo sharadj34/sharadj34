@@ -2,10 +2,10 @@
 <table>
 <tr>
   <td valign="center">
-    🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**. <br>
-    🌱 I am currently learning **C++** and also interested in **Web Development**.<br>
-    🎯 My Goal is to Contribute to as many **open source project** as possible. <br>
-    ✨ I love to create different types of **contents** including writing blogs. <br>
+    🎓 I am currently pursuing my Bachelor's in Computer Science Engineering. <br>
+    🌱 I am currently learning C++ and also interested in Web Development.<br>
+    🎯 My Goal is to Contribute to as many open source project as possible. <br>
+    ✨ I love to create different types of contents including writing blogs. <br>
   <td >
 
 <!---
