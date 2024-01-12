@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently learning on DSA and Mobile app development <br><br>👨🏻‍💻 All of my projects are available at https://sharadj34.github.io/Portfolio/<br><br>📝 I write blogs on https://sharadj34.github.io/Portfolio/html/blog.html<br><br>📫 How to reach me? sharad.jha1010@gmail.com<br><br>📃 Know about my experiences https://drive.google.com/file/d/1_6RdyKxYPpMK0Un9dLI19ODHIz8VeY12/view?usp=sharing
-
+🔭 I'm currently learning on DSA and Mobile app development <br><br>👨🏻‍💻 All of my projects are available at https://sharadj34.github.io/Portfolio/<br><br>📝 I write blogs on https://sharadj34.github.io/Portfolio/html/blog.html<br><br>📫 How to reach me? sharad.jha1010@gmail.com<br><br>📃 Know about my experiences https://docs.google.com/document/d/1VVCtnQwZ8LYB9dpFIvkhp8iMgqwMALdLFgdSpSvtjJQ/edit?usp=drive_link
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sharad_10.10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharad-jha-4260a9218) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sharadj34) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sharadj34) 
