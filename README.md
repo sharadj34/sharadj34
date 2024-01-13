@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sharad Jha</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharadj34&label=Profile%20views&color=0e75b6&style=flat" alt="sharadj34" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharadj34" alt="sharadj34" /></a> </p>
-
 - 🔭 I’m currently working on **DSA and Mobile app development**
 
 - 👨‍💻 All of my projects are available at [https://sharadj34.github.io/Portfolio/](https://sharadj34.github.io/Portfolio/)
@@ -20,7 +16,6 @@
 <a href="https://instagram.com/sharad_10.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharad_10.10" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sharadj1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharadj1010" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sharadjha2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sharadjha2021" height="30" width="40" /></a>
-<a href="https://discord.gg/shardj1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shardj1010" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
