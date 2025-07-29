@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sharad Jha</h1>
 - 🔭 I’m currently working on **DSA and Mobile app development**
 
-- 👨‍💻 All of my projects are available at [https://sharadj34.github.io/Portfolio/](https://sharadj34.github.io/Portfolio/)
-
-- 📝 I regularly write articles on [https://sharadj34.github.io/Portfolio/html/blog.html](https://sharadj34.github.io/Portfolio/html/blog.html)
-
 - 📫 How to reach me **sharad.jha1010@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1VVCtnQwZ8LYB9dpFIvkhp8iMgqwMALdLFgdSpSvtjJQ/edit?usp=drive_link](https://docs.google.com/document/d/1VVCtnQwZ8LYB9dpFIvkhp8iMgqwMALdLFgdSpSvtjJQ/edit?usp=drive_link)
