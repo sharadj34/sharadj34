@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharad Jha</h1>
-- 🔭 I’m currently working as *Data Engineer*
+- 🔭 I’m currently working as **Data Engineer**
 
 - 📫 How to reach me **sharad.jha1010@gmail.com**
 
